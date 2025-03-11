@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Push&Pull
+
+  Created by 結城 竜矢 on 2017/07/25.
+  Copyright © 2017年 結城 竜矢. All rights reserved.
+*/
+
+"lang" = "English";
+
+"msg0" = "Player can move on. When touching the floor, player moves to the point.";
+"msg1" = "Player can push this block. Tap to the direction which you want to move this block.";
+"msg2" = "";
+"msg3" = "Once you push green blocks, they become gray blocks.";
+"msg4" = "Player can pull this block. Tap to the direction which you want to move this block.";
+"msg5" = "";
+"msg6" = "Once you pull blue blocks, they become gray blocks.";
+"msg7" = "Player can push or pull this block. Tap to the direction which you want to move this block.";
+"msg8" = "";
+"msg9" = "Once you move yellow blocks, they became gray blocks.";
+"msg10" = "Player can't move over holes. When you fall blocks, holes become floors.";
+"msg11" = "";
+"msg12" = "A goal of each stage.";
+"msg13" = "End tutorial.";
