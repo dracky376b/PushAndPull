@@ -7,12 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		271CE6021F2ADAA2002A7EE1 /* map13.csv in Resources */ = {isa = PBXBuildFile; fileRef = 271CE5FC1F2ADAA2002A7EE1 /* map13.csv */; };
-		271CE6031F2ADAA2002A7EE1 /* map15.csv in Resources */ = {isa = PBXBuildFile; fileRef = 271CE5FD1F2ADAA2002A7EE1 /* map15.csv */; };
-		271CE6041F2ADAA2002A7EE1 /* map3.csv in Resources */ = {isa = PBXBuildFile; fileRef = 271CE5FE1F2ADAA2002A7EE1 /* map3.csv */; };
-		271CE6051F2ADAA2002A7EE1 /* map2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 271CE5FF1F2ADAA2002A7EE1 /* map2.csv */; };
-		271CE6061F2ADAA2002A7EE1 /* map8.csv in Resources */ = {isa = PBXBuildFile; fileRef = 271CE6001F2ADAA2002A7EE1 /* map8.csv */; };
-		271CE6071F2ADAA2002A7EE1 /* map7.csv in Resources */ = {isa = PBXBuildFile; fileRef = 271CE6011F2ADAA2002A7EE1 /* map7.csv */; };
 		272289D21F01359600C14415 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272289D11F01359600C14415 /* AppDelegate.swift */; };
 		272289D81F01359600C14415 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272289D71F01359600C14415 /* GameScene.swift */; };
 		272289DD1F01359600C14415 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 272289DB1F01359600C14415 /* Main.storyboard */; };
@@ -35,21 +29,13 @@
 		273C42661F0C946800CE6171 /* EditScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273C42651F0C946800CE6171 /* EditScene.swift */; };
 		273C426A1F0C9C5D00CE6171 /* EditScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 273C42691F0C9C5D00CE6171 /* EditScene.sks */; };
 		273C426C1F0CB3A000CE6171 /* Cursol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273C426B1F0CB3A000CE6171 /* Cursol.swift */; };
-		273C426E1F0CC8D900CE6171 /* map_edit.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C426D1F0CC8D900CE6171 /* map_edit.csv */; };
 		273C42701F0E72A800CE6171 /* TouchScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 273C426F1F0E72A800CE6171 /* TouchScene.sks */; };
 		273C42741F0FA04800CE6171 /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273C42731F0FA04800CE6171 /* TutorialViewController.swift */; };
 		273C42761F0FA14300CE6171 /* TutorialScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273C42751F0FA14300CE6171 /* TutorialScene.swift */; };
 		273C42781F0FA22400CE6171 /* TutorialScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 273C42771F0FA22400CE6171 /* TutorialScene.sks */; };
-		273C427A1F0FA66500CE6171 /* map_tutorial.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C42791F0FA66500CE6171 /* map_tutorial.csv */; };
 		273C427C1F1C803300CE6171 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273C427B1F1C803300CE6171 /* Common.swift */; };
 		273C427E1F1CD76B00CE6171 /* TitleScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273C427D1F1CD76B00CE6171 /* TitleScene.swift */; };
 		273C42801F1CDB3600CE6171 /* TitleScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 273C427F1F1CDB3600CE6171 /* TitleScene.sks */; };
-		273C42821F21FC3700CE6171 /* map1.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C42811F21FC3700CE6171 /* map1.csv */; };
-		273C42841F22158300CE6171 /* map6.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C42831F22158300CE6171 /* map6.csv */; };
-		273C42861F221B1000CE6171 /* map5.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C42851F221B1000CE6171 /* map5.csv */; };
-		273C42881F22284E00CE6171 /* map14.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C42871F22284E00CE6171 /* map14.csv */; };
-		273C428A1F22340B00CE6171 /* map4.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C42891F22340B00CE6171 /* map4.csv */; };
-		273C428C1F22384C00CE6171 /* map11.csv in Resources */ = {isa = PBXBuildFile; fileRef = 273C428B1F22384C00CE6171 /* map11.csv */; };
 		2740108B1F03E09D000848D0 /* back1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2740107B1F03E09D000848D0 /* back1.png */; };
 		2740108C1F03E09D000848D0 /* back2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2740107C1F03E09D000848D0 /* back2.png */; };
 		2740108D1F03E09D000848D0 /* front_push1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2740107D1F03E09D000848D0 /* front_push1.png */; };
@@ -69,19 +55,9 @@
 		2740109C1F041A2E000848D0 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 2740109B1F041A2E000848D0 /* GameScene.sks */; };
 		276519C92001011C00D331C8 /* se_move.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 276519C82001011C00D331C8 /* se_move.mp3 */; };
 		276694C91F26B1B10037B913 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 276694CB1F26B1B10037B913 /* Localizable.strings */; };
-		27B33E341F3632BA0046659A /* map12.csv in Resources */ = {isa = PBXBuildFile; fileRef = 27B33E321F3632BA0046659A /* map12.csv */; };
-		27B33E351F3632BA0046659A /* map9.csv in Resources */ = {isa = PBXBuildFile; fileRef = 27B33E331F3632BA0046659A /* map9.csv */; };
-		27B33E371F3DD5D00046659A /* map10.csv in Resources */ = {isa = PBXBuildFile; fileRef = 27B33E361F3DD5D00046659A /* map10.csv */; };
-		27BCEB4D1FD85A4D00ECEA59 /* map16.csv in Resources */ = {isa = PBXBuildFile; fileRef = 27BCEB4C1FD85A4D00ECEA59 /* map16.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		271CE5FC1F2ADAA2002A7EE1 /* map13.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map13.csv; sourceTree = "<group>"; };
-		271CE5FD1F2ADAA2002A7EE1 /* map15.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map15.csv; sourceTree = "<group>"; };
-		271CE5FE1F2ADAA2002A7EE1 /* map3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map3.csv; sourceTree = "<group>"; };
-		271CE5FF1F2ADAA2002A7EE1 /* map2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map2.csv; sourceTree = "<group>"; };
-		271CE6001F2ADAA2002A7EE1 /* map8.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map8.csv; sourceTree = "<group>"; };
-		271CE6011F2ADAA2002A7EE1 /* map7.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map7.csv; sourceTree = "<group>"; };
 		272289CE1F01359600C14415 /* PushAndPull.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PushAndPull.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		272289D11F01359600C14415 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		272289D71F01359600C14415 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
@@ -106,21 +82,13 @@
 		273C42651F0C946800CE6171 /* EditScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditScene.swift; sourceTree = "<group>"; };
 		273C42691F0C9C5D00CE6171 /* EditScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = EditScene.sks; sourceTree = "<group>"; };
 		273C426B1F0CB3A000CE6171 /* Cursol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cursol.swift; sourceTree = "<group>"; };
-		273C426D1F0CC8D900CE6171 /* map_edit.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map_edit.csv; sourceTree = "<group>"; };
 		273C426F1F0E72A800CE6171 /* TouchScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TouchScene.sks; sourceTree = "<group>"; };
 		273C42731F0FA04800CE6171 /* TutorialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
 		273C42751F0FA14300CE6171 /* TutorialScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialScene.swift; sourceTree = "<group>"; };
 		273C42771F0FA22400CE6171 /* TutorialScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TutorialScene.sks; sourceTree = "<group>"; };
-		273C42791F0FA66500CE6171 /* map_tutorial.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map_tutorial.csv; sourceTree = "<group>"; };
 		273C427B1F1C803300CE6171 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		273C427D1F1CD76B00CE6171 /* TitleScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TitleScene.swift; sourceTree = "<group>"; };
 		273C427F1F1CDB3600CE6171 /* TitleScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TitleScene.sks; sourceTree = "<group>"; };
-		273C42811F21FC3700CE6171 /* map1.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map1.csv; sourceTree = "<group>"; };
-		273C42831F22158300CE6171 /* map6.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map6.csv; sourceTree = "<group>"; };
-		273C42851F221B1000CE6171 /* map5.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map5.csv; sourceTree = "<group>"; };
-		273C42871F22284E00CE6171 /* map14.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map14.csv; sourceTree = "<group>"; };
-		273C42891F22340B00CE6171 /* map4.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map4.csv; sourceTree = "<group>"; };
-		273C428B1F22384C00CE6171 /* map11.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map11.csv; sourceTree = "<group>"; };
 		2740107B1F03E09D000848D0 /* back1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back1.png; sourceTree = "<group>"; };
 		2740107C1F03E09D000848D0 /* back2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back2.png; sourceTree = "<group>"; };
 		2740107D1F03E09D000848D0 /* front_push1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = front_push1.png; sourceTree = "<group>"; };
@@ -143,14 +111,11 @@
 		276694C81F26B1A10037B913 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		276694CA1F26B1B10037B913 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		276694CC1F26B1B30037B913 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
-		27B33E321F3632BA0046659A /* map12.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map12.csv; sourceTree = "<group>"; };
-		27B33E331F3632BA0046659A /* map9.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map9.csv; sourceTree = "<group>"; };
-		27B33E361F3DD5D00046659A /* map10.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map10.csv; sourceTree = "<group>"; };
-		27BCEB4C1FD85A4D00ECEA59 /* map16.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = map16.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		27F42EAB2D80D49600119204 /* picture */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = picture; sourceTree = "<group>"; };
+		27F42EAC2D80D78700119204 /* maps */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = maps; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,12 +148,12 @@
 		272289D01F01359600C14415 /* PushAndPull */ = {
 			isa = PBXGroup;
 			children = (
+				27F42EAC2D80D78700119204 /* maps */,
 				27F42EAB2D80D49600119204 /* picture */,
 				27F625002002539600B031DE /* sound */,
 				2740109B1F041A2E000848D0 /* GameScene.sks */,
 				273C427F1F1CDB3600CE6171 /* TitleScene.sks */,
 				2740107A1F03E06A000848D0 /* player.atlas */,
-				272289FE1F01433100C14415 /* maps */,
 				272289E91F01360100C14415 /* maptiles.atlas */,
 				272289D11F01359600C14415 /* AppDelegate.swift */,
 				273C427B1F1C803300CE6171 /* Common.swift */,
@@ -226,31 +191,6 @@
 				272289EF1F01368900C14415 /* 5.png */,
 			);
 			name = maptiles.atlas;
-			sourceTree = "<group>";
-		};
-		272289FE1F01433100C14415 /* maps */ = {
-			isa = PBXGroup;
-			children = (
-				27BCEB4C1FD85A4D00ECEA59 /* map16.csv */,
-				27B33E361F3DD5D00046659A /* map10.csv */,
-				27B33E321F3632BA0046659A /* map12.csv */,
-				27B33E331F3632BA0046659A /* map9.csv */,
-				271CE5FC1F2ADAA2002A7EE1 /* map13.csv */,
-				271CE5FD1F2ADAA2002A7EE1 /* map15.csv */,
-				271CE5FE1F2ADAA2002A7EE1 /* map3.csv */,
-				271CE5FF1F2ADAA2002A7EE1 /* map2.csv */,
-				271CE6001F2ADAA2002A7EE1 /* map8.csv */,
-				271CE6011F2ADAA2002A7EE1 /* map7.csv */,
-				273C428B1F22384C00CE6171 /* map11.csv */,
-				273C42891F22340B00CE6171 /* map4.csv */,
-				273C42871F22284E00CE6171 /* map14.csv */,
-				273C42851F221B1000CE6171 /* map5.csv */,
-				273C42831F22158300CE6171 /* map6.csv */,
-				273C42811F21FC3700CE6171 /* map1.csv */,
-				273C42791F0FA66500CE6171 /* map_tutorial.csv */,
-				273C426D1F0CC8D900CE6171 /* map_edit.csv */,
-			);
-			name = maps;
 			sourceTree = "<group>";
 		};
 		2740107A1F03E06A000848D0 /* player.atlas */ = {
@@ -304,6 +244,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				27F42EAB2D80D49600119204 /* picture */,
+				27F42EAC2D80D78700119204 /* maps */,
 			);
 			name = PushAndPull;
 			productName = "Push&Pull";
@@ -351,7 +292,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				27392192200762F700FA44BE /* se_miss.mp3 in Resources */,
-				271CE6031F2ADAA2002A7EE1 /* map15.csv in Resources */,
 				273C426A1F0C9C5D00CE6171 /* EditScene.sks in Resources */,
 				2740108E1F03E09D000848D0 /* front_push2.png in Resources */,
 				272289DD1F01359600C14415 /* Main.storyboard in Resources */,
@@ -361,49 +301,32 @@
 				273C42801F1CDB3600CE6171 /* TitleScene.sks in Resources */,
 				272289DF1F01359600C14415 /* Assets.xcassets in Resources */,
 				2740109C1F041A2E000848D0 /* GameScene.sks in Resources */,
-				271CE6061F2ADAA2002A7EE1 /* map8.csv in Resources */,
 				274010951F03E09D000848D0 /* back_push1.png in Resources */,
-				271CE6051F2ADAA2002A7EE1 /* map2.csv in Resources */,
 				276694C91F26B1B10037B913 /* Localizable.strings in Resources */,
 				274010941F03E09D000848D0 /* left2.png in Resources */,
 				272289F91F013B0900C14415 /* 1.png in Resources */,
 				272289F51F01368900C14415 /* 5.png in Resources */,
 				274010911F03E09D000848D0 /* left_push1.png in Resources */,
 				272289F31F01368900C14415 /* 3.png in Resources */,
-				273C42881F22284E00CE6171 /* map14.csv in Resources */,
-				271CE6041F2ADAA2002A7EE1 /* map3.csv in Resources */,
 				274010991F03E09D000848D0 /* right1.png in Resources */,
 				272289F01F01368900C14415 /* 4.png in Resources */,
-				273C427A1F0FA66500CE6171 /* map_tutorial.csv in Resources */,
-				273C42821F21FC3700CE6171 /* map1.csv in Resources */,
 				272289F11F01368900C14415 /* 0.png in Resources */,
 				274010931F03E09D000848D0 /* left1.png in Resources */,
 				274010921F03E09D000848D0 /* left_push2.png in Resources */,
 				27392194200762F700FA44BE /* se_allclear.mp3 in Resources */,
 				274010971F03E09D000848D0 /* right_push1.png in Resources */,
-				27BCEB4D1FD85A4D00ECEA59 /* map16.csv in Resources */,
 				2740109A1F03E09D000848D0 /* right2.png in Resources */,
 				274010961F03E09D000848D0 /* back_push2.png in Resources */,
 				272289E21F01359600C14415 /* LaunchScreen.storyboard in Resources */,
 				272289F41F01368900C14415 /* 6.png in Resources */,
-				27B33E351F3632BA0046659A /* map9.csv in Resources */,
 				2740108F1F03E09D000848D0 /* front1.png in Resources */,
-				27B33E341F3632BA0046659A /* map12.csv in Resources */,
 				273C42781F0FA22400CE6171 /* TutorialScene.sks in Resources */,
 				2740108C1F03E09D000848D0 /* back2.png in Resources */,
-				271CE6071F2ADAA2002A7EE1 /* map7.csv in Resources */,
-				271CE6021F2ADAA2002A7EE1 /* map13.csv in Resources */,
 				272289F21F01368900C14415 /* 2.png in Resources */,
 				2740108D1F03E09D000848D0 /* front_push1.png in Resources */,
-				273C42861F221B1000CE6171 /* map5.csv in Resources */,
-				273C426E1F0CC8D900CE6171 /* map_edit.csv in Resources */,
 				273C42701F0E72A800CE6171 /* TouchScene.sks in Resources */,
-				273C428C1F22384C00CE6171 /* map11.csv in Resources */,
-				27B33E371F3DD5D00046659A /* map10.csv in Resources */,
 				274010901F03E09D000848D0 /* front2.png in Resources */,
-				273C428A1F22340B00CE6171 /* map4.csv in Resources */,
 				274010981F03E09D000848D0 /* right_push2.png in Resources */,
-				273C42841F22158300CE6171 /* map6.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -585,7 +508,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 764TVHVKEF;
-				INFOPLIST_FILE = "Push&Pull/Info.plist";
+				INFOPLIST_FILE = PushAndPull/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -605,7 +528,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 764TVHVKEF;
-				INFOPLIST_FILE = "Push&Pull/Info.plist";
+				INFOPLIST_FILE = PushAndPull/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
